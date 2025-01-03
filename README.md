@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Faskath513
+# 👋 Hi, I’m Mohamed Fasksth
 
 - 👀 I’m interested in Data Science, Machine Learning, and Backend Development.
 - 🌱 I’m currently learning more about Artificial Intelligence, NLP, and Computer Vision.
